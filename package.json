@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/miguelmanalo/PFAB-ASCII-Maker/issues"
   },
-  "homepage": "https://github.com/miguelmanalo/PFAB-ASCII-Maker#readme"
+  "homepage": "https://github.com/miguelmanalo/PFAB-ASCII-Maker#readme",
+  "dependencies": {
+    "cairo": "0.1.0-alpha.3",
+    "caman": "^4.1.2",
+    "node-libpng": "^0.2.17"
+  }
 }
