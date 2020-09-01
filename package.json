@@ -1,0 +1,19 @@
+{
+  "name": "pfab-ascii-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelmanalo/PFAB-ASCII-Maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelmanalo/PFAB-ASCII-Maker/issues"
+  },
+  "homepage": "https://github.com/miguelmanalo/PFAB-ASCII-Maker#readme"
+}
